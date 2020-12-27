@@ -1,9 +1,9 @@
 # Appweb-flask-docker
-Application created with Flask, along with Docker configurations * Dockerfile * to create a container
+Application created with Flask, along with Docker configurations *Dockerfile* to create a container
 
 Features:
   - Alpine was used as the base of the image
-  - The Dockerfile have dependencies for python and commands to start the applications.
+  - The Dockerfile have dependencies for python and commands to start the application.
 ### Create Image
 
 ```sh
